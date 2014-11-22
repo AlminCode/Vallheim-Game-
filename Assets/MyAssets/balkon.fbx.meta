@@ -1,0 +1,132 @@
+fileFormatVersion: 2
+guid: dd6eef1d9245b4140ac7d945cb5023a8
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: bend1Handle
+    100004: group
+    100006: group1
+    100008: pasted__SM_Railing
+    100010: pasted__SM_Railing 1
+    100012: pPipe1
+    100014: SM_Railing
+    100016: SM_Railing1
+    100018: SM_Railing2
+    100020: SM_Railing3
+    100022: SM_Railing4
+    100024: SM_Railing5
+    100026: SM_Railing6
+    100028: SM_Railing7
+    100030: SM_Railing8
+    100032: SM_Railing9
+    400000: //RootNode
+    400002: bend1Handle
+    400004: group
+    400006: group1
+    400008: pasted__SM_Railing
+    400010: pasted__SM_Railing 1
+    400012: pPipe1
+    400014: SM_Railing
+    400016: SM_Railing1
+    400018: SM_Railing2
+    400020: SM_Railing3
+    400022: SM_Railing4
+    400024: SM_Railing5
+    400026: SM_Railing6
+    400028: SM_Railing7
+    400030: SM_Railing8
+    400032: SM_Railing9
+    2300000: pasted__SM_Railing
+    2300002: pasted__SM_Railing 1
+    2300004: pPipe1
+    2300006: SM_Railing
+    2300008: SM_Railing1
+    2300010: SM_Railing2
+    2300012: SM_Railing3
+    2300014: SM_Railing4
+    2300016: SM_Railing5
+    2300018: SM_Railing6
+    2300020: SM_Railing7
+    2300022: SM_Railing8
+    2300024: SM_Railing9
+    3300000: pasted__SM_Railing
+    3300002: pasted__SM_Railing 1
+    3300004: pPipe1
+    3300006: SM_Railing
+    3300008: SM_Railing1
+    3300010: SM_Railing2
+    3300012: SM_Railing3
+    3300014: SM_Railing4
+    3300016: SM_Railing5
+    3300018: SM_Railing6
+    3300020: SM_Railing7
+    3300022: SM_Railing8
+    3300024: SM_Railing9
+    4300000: SM_Railing
+    4300002: pPipe1
+    4300004: pasted__SM_Railing
+    4300006: pasted__SM_Railing
+    4300008: SM_Railing1
+    4300010: SM_Railing2
+    4300012: SM_Railing3
+    4300014: SM_Railing4
+    4300016: SM_Railing5
+    4300018: SM_Railing6
+    4300020: SM_Railing7
+    4300022: SM_Railing8
+    4300024: SM_Railing9
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

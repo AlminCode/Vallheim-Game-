@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Temp\Compiled-Alpha-ParallaxSpec.shader">
+    <Files>
+      <File FileName="Assets\MyAssets\Key1AnimationScript.cs" Line="8" Column="32" />
+      <File FileName="Assets\Moje skripte\InputHandler.cs" Line="1" Column="1" />
+      <File FileName="Assets\Moje skripte\AutomaticDoor.cs" Line="1" Column="1" />
+      <File FileName="Assets\Moje skripte\InteractiveObject.cs" Line="1" Column="1" />
+      <File FileName="Assets\MyAssets\DestroyOnClick.cs" Line="4" Column="28" />
+      <File FileName="Temp\Compiled-Alpha-ParallaxSpec.shader" Line="1" Column="30" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
